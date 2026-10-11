@@ -45,7 +45,6 @@ The report contains **35 pages**: three general pages and four pages for each of
 
 ## Interactive Report
 
-**Power BI Dashboard:** [Add the published dashboard link here]
 
 ## Project Files
 
