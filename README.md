@@ -57,23 +57,23 @@ The screenshots below are **selected samples** from the full report. They showca
 
 ### General Overview
 
-![Home](.images/Home.png)
+![Home](Images/Home.png)
 
-![Global Summary](images/Global%20Summary.png)
+![Global Summary](Images/Global%20Summary.png)
 
-![Collection](images/Collection.png)
+![Collection](Images/Collection.png)
 
 ### One Kattameya — Detailed Analysis
 
-![One Kattameya Overall](images/One%20Kattameya%20Overall.png)
+![One Kattameya Overall](Images/One%20Kattameya%20Overall.png)
 
-![One Kattameya Bank](images/One%20Kattameya%20Bank.png)
+![One Kattameya Bank](Images/One%20Kattameya%20Bank.png)
 
-![One Kattameya Cash](images/One%20Kattameya%20Cash.png)
+![One Kattameya Cash](Images/One%20Kattameya%20Cash.png)
 
-![One Kattameya Bank Wise](images/One%20Kattameya%20Bank%20Wise.png)
+![One Kattameya Bank Wise](Images/One%20Kattameya%20Bank%20Wise.png)
 
-![One Kattameya Bank Wise 2](images/One%20Kattameya%20Bank%20Wise%202.png)
+![One Kattameya Bank Wise 2](Images/One%20Kattameya%20Bank%20Wise%202.png)
 
 ## Interactive Report
 
