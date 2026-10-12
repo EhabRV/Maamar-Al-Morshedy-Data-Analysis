@@ -57,7 +57,7 @@ The screenshots below are **selected samples** from the full report. They showca
 
 ### General Overview
 
-![Home](images/Home.png)
+![Home](.images/Home.png)
 
 ![Global Summary](images/Global%20Summary.png)
 
